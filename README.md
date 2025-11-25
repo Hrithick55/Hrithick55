@@ -37,11 +37,12 @@ I’m currently expanding my knowledge by working on small projects and explorin
 ---
 
 ### 🚀 Projects
-- [Weather App](https://github.com/yourusername/weather-app) — Real-time weather updates using OpenWeather API.  
-- [Calculator](https://github.com/yourusername/calculator) — Simple and responsive calculator built with JavaScript.  
-- [Currency Converter](https://github.com/yourusername/currency-converter) — Converts currencies with live exchange rates.  
-- [Typing Speed Test](https://github.com/yourusername/typing-speed-test) — Measures typing speed and accuracy.  
 
+- [Portfolio](https://portfolio-git-main-hrithick55s-projects.vercel.app/) — My Personal portfolio 
+- [Web_quizbot](https://web-quizbot-git-main-hrithick55s-projects.vercel.app/) —  Prepare for interview using Web quiz bot
+- [Calculator](https://glassmorphism-calculator-git-main-hrithick55s-projects.vercel.app/) — Simple and responsive calculator built with JavaScript.  
+- [Habit tracker](https://habit-tracker-git-main-hrithick55s-projects.vercel.app/) — Track your daily habits 
+ 
 ---
 
 ### 📊 GitHub Overview
@@ -53,4 +54,4 @@ I’m currently expanding my knowledge by working on small projects and explorin
 ### 📫 Contact
 - 📧 [Hrithick55@gmail.com](mailto:Hrithick55@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hrithick-h/)  
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🌐 [Portfolio](https://portfolio-git-main-hrithick55s-projects.vercel.app/)
