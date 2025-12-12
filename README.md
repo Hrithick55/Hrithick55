@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hrthick
 
-I’m a passionate Full-Stack Developer in the making, focused on building responsive, user-friendly web applications. Currently exploring technologies like HTML, CSS, JavaScript, React, Mysql and Python. I love turning ideas into interactive digital experiences.
+I’m a passionate Full-Stack Developer in the making, focused on building responsive, user-friendly web applications. Currently exploring technologies like HTML, CSS, JavaScript, Mysql, Python and Django. I love turning ideas into interactive digital experiences.
 
 I’m constantly learning — from designing clean interfaces to writing efficient backend logic. My goal is to grow into a developer who can build complete, scalable products from scratch.
 
@@ -21,7 +21,6 @@ I’m currently expanding my knowledge by working on small projects and explorin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +31,6 @@ I’m currently expanding my knowledge by working on small projects and explorin
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
