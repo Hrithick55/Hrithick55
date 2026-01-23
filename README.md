@@ -40,12 +40,6 @@ I’m currently expanding my knowledge by working on small projects and explorin
 - [Web_quizbot](https://web-quizbot-git-main-hrithick55s-projects.vercel.app/) —  Prepare for interview using Web quiz bot
 - [Calculator](https://glassmorphism-calculator-git-main-hrithick55s-projects.vercel.app/) — Simple and responsive calculator built with JavaScript.  
 - [Habit tracker](https://habit-tracker-git-main-hrithick55s-projects.vercel.app/) — Track your daily habits 
- 
----
-
-### 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)
 
 ---
 
